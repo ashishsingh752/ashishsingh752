@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ashish Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div>     
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Ashish+Singh,+Welcome+to+My+Profile!+;I'm+a+full-stack+developer+;Always+eager+to+learn+new+things" alt="Typing SVG" /></a>
+<br />
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishsingh752&label=Profile%20views&color=0e75b6&style=flat" alt="ashishsingh752" /> </p>
 
